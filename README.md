@@ -1,2 +1,2 @@
-# Feit-android-app
-Feit app is an android app basically made to kick out fake goods. It checks the authenticity of a product by scanning the bar or QR code.
+#Nchisec-android-app
+Nchisec is a safety app that detects lethal weapons around the user. It works with the help of an external sensor which communicates with the device via bluetooth. Nchisec works with the help of electo-magnetic sensors available in mobile devices. The app has a yellow sun with a red boundary as its logo. This is a sign of hope to end the common terror attacks experienced in the world today. It has a screen of location that links to google map and shows the location of the user. Once the app outlays the results to the user, The user can take a photo of the current sitution where the weapon is located and share with friends and family that they are in danger via whatsapp, facebook, gmail and other social media.
